@@ -20,15 +20,21 @@ The goals include a clear architecture, smooth user experience, and scalable mic
 - Design prototyping (low- and high-fidelity)
 
 ## Diagrams and Designs
-The following images are included in the repository:
-
+Process Flow Chart:
 - ![Process Flow](images/process_flow.png)
+
+UML Class Diagram:
 - ![UML Class Diagram](images/uml_class.png)
+
+Microservices Architecture:
 - ![Microservices Architecture](images/microservices.png)
+
+Low-Fidelity Design:
 - ![Low-Fidelity Design](images/low_fidelity.png)
+
+High-Fidelity Design:
 - ![High-Fidelity Design](images/high_fidelity.png)
 
-(Replace the image file names above with the actual file names you use.)
 
 ## Folder Structure
 ```
@@ -43,7 +49,3 @@ The following images are included in the repository:
 │   └── high_fidelity.png
 └── README.md
 ```
-
-## Notes
-- Images can be embedded directly in the README as shown above.
-- Alternatively, you can keep them in the `images/` folder and reference them in the report or documentation.
