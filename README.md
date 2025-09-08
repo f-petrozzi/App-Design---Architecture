@@ -1,6 +1,6 @@
 # Mobile Ticketing App Design
 
-A project showcasing the design and architecture of a mobile ticketing application.
+A project showing the design and architecture of a mobile ticketing application.
 
 ## Summary
 This app is designed to provide users with a simple, reliable way to purchase, store, and validate tickets on mobile devices.  
